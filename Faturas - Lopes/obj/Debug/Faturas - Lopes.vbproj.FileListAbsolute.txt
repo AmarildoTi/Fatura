@@ -1,0 +1,56 @@
+C:\Visual Studio 2008\Projects\Faturas - Lopes\Faturas - Lopes\obj\Debug\Interop.ADOX.dll
+C:\Visual Studio 2008\Projects\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas - Lopes.vbproj.ResolveComReference.cache
+C:\Visual Studio 2008\Projects\Faturas - Lopes\Faturas - Lopes\bin\Debug\Faturas - Lopes.exe
+C:\Visual Studio 2008\Projects\Faturas - Lopes\Faturas - Lopes\bin\Debug\Faturas - Lopes.pdb
+C:\Visual Studio 2008\Projects\Faturas - Lopes\Faturas - Lopes\bin\Debug\Faturas - Lopes.xml
+C:\Visual Studio 2008\Projects\Faturas - Lopes\Faturas - Lopes\bin\Debug\Marpress.dll
+C:\Visual Studio 2008\Projects\Faturas - Lopes\Faturas - Lopes\bin\Debug\Marpress.pdb
+C:\Visual Studio 2008\Projects\Faturas - Lopes\Faturas - Lopes\bin\Debug\Marpress.xml
+C:\Visual Studio 2008\Projects\Faturas - Lopes\Faturas - Lopes\bin\Debug\itextsharp.xml
+C:\Visual Studio 2008\Projects\Faturas - Lopes\Faturas - Lopes\bin\Debug\Interop.ADOX.dll
+C:\Visual Studio 2008\Projects\Faturas - Lopes\Faturas - Lopes\obj\Debug\ResolveAssemblyReference.cache
+C:\Visual Studio 2008\Projects\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas.FormPrincipal.resources
+C:\Visual Studio 2008\Projects\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas.Resources.resources
+C:\Visual Studio 2008\Projects\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas - Lopes.vbproj.GenerateResource.Cache
+C:\Visual Studio 2008\Projects\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas - Lopes.exe
+C:\Visual Studio 2008\Projects\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas - Lopes.xml
+C:\Visual Studio 2008\Projects\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas - Lopes.pdb
+C:\Amarildo\Faturas - Lopes\Faturas - Lopes\obj\Debug\Interop.ADOX.dll
+C:\Amarildo\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas - Lopes.vbproj.ResolveComReference.cache
+C:\Amarildo\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas - Lopes.exe
+C:\Amarildo\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas - Lopes.xml
+C:\Amarildo\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas - Lopes.pdb
+C:\Amarildo\Faturas - Lopes\Faturas - Lopes\bin\Debug\Faturas - Lopes.exe
+C:\Amarildo\Faturas - Lopes\Faturas - Lopes\bin\Debug\Faturas - Lopes.pdb
+C:\Amarildo\Faturas - Lopes\Faturas - Lopes\bin\Debug\Faturas - Lopes.xml
+C:\Amarildo\Faturas - Lopes\Faturas - Lopes\bin\Debug\Marpress.pdb
+C:\Amarildo\Faturas - Lopes\Faturas - Lopes\bin\Debug\Marpress.xml
+C:\Amarildo\Faturas - Lopes\Faturas - Lopes\bin\Debug\itextsharp.xml
+C:\Amarildo\Faturas - Lopes\Faturas - Lopes\bin\Debug\Interop.ADOX.dll
+C:\Amarildo\Faturas - Lopes\Faturas - Lopes\obj\Debug\ResolveAssemblyReference.cache
+C:\Amarildo\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas.FormPrincipal.resources
+C:\Amarildo\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas.Resources.resources
+C:\Amarildo\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas - Lopes.vbproj.GenerateResource.Cache
+C:\Amarildo\Clientes\Lopes\Fatura\Itau\Fonte\Faturas - Lopes\Faturas - Lopes\obj\Debug\Interop.ADOX.dll
+C:\Amarildo\Clientes\Lopes\Fatura\Itau\Fonte\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas - Lopes.vbproj.ResolveComReference.cache
+C:\Amarildo\Clientes\Lopes\Fatura\Itau\Fonte\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas - Lopes.exe
+C:\Amarildo\Clientes\Lopes\Fatura\Itau\Fonte\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas - Lopes.xml
+C:\Amarildo\Clientes\Lopes\Fatura\Itau\Fonte\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas - Lopes.pdb
+C:\Amarildo\Programas\Visual Studio\Faturas - Lopes\Faturas - Lopes\bin\Debug\Faturas - Lopes.exe
+C:\Amarildo\Programas\Visual Studio\Faturas - Lopes\Faturas - Lopes\bin\Debug\Faturas - Lopes.pdb
+C:\Amarildo\Programas\Visual Studio\Faturas - Lopes\Faturas - Lopes\bin\Debug\Faturas - Lopes.xml
+C:\Amarildo\Programas\Visual Studio\Faturas - Lopes\Faturas - Lopes\bin\Debug\itextsharp.xml
+C:\Amarildo\Programas\Visual Studio\Faturas - Lopes\Faturas - Lopes\bin\Debug\Marpress.pdb
+C:\Amarildo\Programas\Visual Studio\Faturas - Lopes\Faturas - Lopes\bin\Debug\Marpress.xml
+C:\Amarildo\Programas\Visual Studio\Faturas - Lopes\Faturas - Lopes\bin\Debug\Interop.ADOX.dll
+C:\Amarildo\Programas\Visual Studio\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas - Lopes.vbprojAssemblyReference.cache
+C:\Amarildo\Programas\Visual Studio\Faturas - Lopes\Faturas - Lopes\obj\Debug\Interop.ADOX.dll
+C:\Amarildo\Programas\Visual Studio\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas - Lopes.vbproj.ResolveComReference.cache
+C:\Amarildo\Programas\Visual Studio\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas.FormPrincipal.resources
+C:\Amarildo\Programas\Visual Studio\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas.Resources.resources
+C:\Amarildo\Programas\Visual Studio\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas - Lopes.vbproj.GenerateResource.cache
+C:\Amarildo\Programas\Visual Studio\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas - Lopes.vbproj.CoreCompileInputs.cache
+C:\Amarildo\Programas\Visual Studio\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas - Lopes.vbproj.CopyComplete
+C:\Amarildo\Programas\Visual Studio\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas - Lopes.exe
+C:\Amarildo\Programas\Visual Studio\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas - Lopes.xml
+C:\Amarildo\Programas\Visual Studio\Faturas - Lopes\Faturas - Lopes\obj\Debug\Faturas - Lopes.pdb
